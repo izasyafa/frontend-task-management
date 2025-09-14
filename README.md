@@ -1,35 +1,42 @@
-# frontend_task_management
+````markdown
+# 🚀 Vue.js Project
 
-This template should help get you started developing with Vue 3 in Vite.
+Project ini dibuat menggunakan [Vue.js](https://vuejs.org/) dengan Vite sebagai build tool.
 
-## Recommended IDE Setup
+---
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 🔧 Installation & Setup
 
-## Customize configuration
+Ikuti langkah berikut untuk menjalankan project ini di lokal:
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+### 1. Clone Repository
+```bash
+git clone https://github.com/username/nama-project.git
+cd nama-project
+````
 
-## Project Setup
+### 2. Install Dependencies
 
-```sh
+Gunakan package manager favoritmu (`npm`, `yarn`, atau `pnpm`):
+
+```bash
 npm install
+# atau
+yarn install
+# atau
+pnpm install
 ```
 
-### Compile and Hot-Reload for Development
+### 3. Jalankan Project (Development)
 
-```sh
+```bash
 npm run dev
 ```
 
-### Compile and Minify for Production
+Lalu buka [http://localhost:5173](http://localhost:5173) di browser.
 
-```sh
+### 4. Build untuk Production
+
+```bash
 npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
 ```
