@@ -11,7 +11,7 @@ Ikuti langkah berikut untuk menjalankan project ini di lokal:
 
 ### 1. Clone Repository
 ```bash
-https://github.com/izasyafa/frontend-task-management.git
+git clone https://github.com/izasyafa/frontend-task-management.git
 ````
 
 ### 2. Install Dependencies
